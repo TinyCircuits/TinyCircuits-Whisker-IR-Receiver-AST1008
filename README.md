@@ -1,7 +1,7 @@
-# TinyCircuits Whisker IR Receiver
+# TinyCircuits Wireling IR Receiver
 # AST1008 Rev1
 
-The design files are located under design_files/ for the TinyCircuits AST1008 Rev 1 PCB. This is a whisker board which features the Vishay TSOP57438 IR receiver optimized for Infrared signals near 38kHz. This sensor is most sensitive to the 950nm wavelength, outputs a demodulated data signal. (Pairs well with our IR Emitter Whisker)
+The design files are located under design_files/ for the TinyCircuits AST1008 Rev 1 PCB. This is a Wireling board which features the Vishay TSOP57438 IR receiver optimized for Infrared signals near 38kHz. This sensor is most sensitive to the 950nm wavelength, outputs a demodulated data signal. (Pairs well with our IR Emitter Whisker)
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
